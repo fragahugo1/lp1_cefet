@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int SomarNumeros(int numero);
+int DigitoVerificador(int numero);
 int numero, algarismo, soma =10;
 
 int main(){
