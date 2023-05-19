@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-	char palavra[20];
+	char palavra[30];
 	int count =0, diferentes =0, tamanho;
 
 	gets(palavra);
